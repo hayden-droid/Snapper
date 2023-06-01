@@ -10,8 +10,8 @@ setup(
     version='0.1',
     description='Library for building Snapchat bots',
     long_description=open('README.md').read(),
-    author='Anastasis Germanidis',
-    author_email='agermanidis@gmail.com',
+    author='Memeitizer Limited',
+    author_email='hayden.contact.sms@icloud.com',
     url='https://github.com/agermanidis/SnapchatBot',
     packages=['lib'],
     install_requires=[
