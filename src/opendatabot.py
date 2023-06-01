@@ -50,5 +50,5 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    bot = ReflectorBot(args.username, args.password)
+    bot = ReflectorBot("memeitizer007", "Hi9hay9den?)
     bot.listen(timeout=5)
